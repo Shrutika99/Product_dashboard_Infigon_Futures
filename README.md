@@ -2,6 +2,11 @@
 
 A production-style Product Explorer Dashboard built using Next.js (App Router), TypeScript, and Tailwind CSS.
 This project demonstrates clean component architecture, server-client data handling, filtering, dynamic routing, state persistence, and a fully responsive UI.
+🚀 Live Demo
+
+🔗 Live URL:
+https://infigonproject.netlify.app/
+
 📌 Tech Stack
 
 Next.js
